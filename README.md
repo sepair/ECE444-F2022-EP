@@ -1,4 +1,4 @@
-Sepehr's copy
+Sepehr (sepair)'s copy. Note that this repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template.
 
 # Assignment 1: Education Pathway
 
