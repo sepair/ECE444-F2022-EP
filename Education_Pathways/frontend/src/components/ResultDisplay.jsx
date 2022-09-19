@@ -61,7 +61,7 @@ class SearchResultDisplay extends Component{
 
   //   <div className="SearchQuery">
   //       <div style={{ marginTop: "10%" }}>
-  //           <h1> Education Pathways Search</h1>
+  //           <h1> EP-Sepehr Search</h1>
   //           <br></br>
   //           <form onSubmit={this.handleSubmit} className={"search"}>
   //               <input placeholder={"Search for course code, course name, keyword ..."} className={"text-input"} type="text" value={this.state.input} onChange={this.handleChange} />
